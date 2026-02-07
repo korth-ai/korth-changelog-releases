@@ -1,3 +1,21 @@
+# Korth AI - Public Changelog
+
+Welcome to the official changelog for the **Korth AI Trust Kernel**. This repository serves as a transparent record of our platform's evolution, security enhancements, and feature updates.
+
+## 🚀 Recent Updates
+
+### [v1.0.0] - 2026-02-07
+- **Initial Public Release**: Official launch of the Korth AI Trust Kernel.
+- **Security**: Implemented real-time failed login alerting on GCP.
+- **Compliance**: Alignment with ISO 42001 (AI Governance) and SOC 2 frameworks.
+- **Infrastructure**: Production environment stabilized in Doha (me-central2) region.
+
+---
+**Security Contact**: For vulnerability disclosures, please reach out to `security@korth.ai`.
+
+
+
+
 # 🛡️ KORTH KERNEL
 ### AI Security Infrastructure & Middle-tier
 
