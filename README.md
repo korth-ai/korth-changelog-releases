@@ -1,4 +1,4 @@
-# 🛡️ KORTH_KERNEL
+# 🛡️ KORTH KERNEL
 ### AI Security Infrastructure & Middle-tier
 
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js%2014-black)](https://nextjs.org/)
